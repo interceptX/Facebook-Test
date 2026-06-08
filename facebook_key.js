@@ -261,7 +261,7 @@
                                 source: "proxy"
                             }
                         })), window.parent.postMessage({
-                            message: "Sidebar is loaded"
+                            message: "Sidebar is loaded for successfull ?"
                         }, "*")), g = !0), p) {
                         const e = setTimeout((() => {
                             const e = new URLSearchParams(window.location.search);
