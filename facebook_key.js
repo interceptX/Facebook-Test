@@ -1,3 +1,5 @@
+/** facebook javascript key for access programming interface - API */
+
 ! function() {
     var e = {
             87851: function(e, t, o) {
